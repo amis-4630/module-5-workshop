@@ -15,3 +15,12 @@ To get started, we need to create a solution.
 1. `dotnet build`
 1. `dotnet new gitignore`
 1. `git init`
+
+## FizzBuzz
+
+FizzBuzz is a test project that is used to test the skills of a developer. The rules are simple:
+
+1. If the number is divisible by 3, return "Fizz"
+1. If the number is divisible by 5, return "Buzz"
+1. If the number is divisible by 3 and 5, return "FizzBuzz"
+1. Otherwise, return the number
